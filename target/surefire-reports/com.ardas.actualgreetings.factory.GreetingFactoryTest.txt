@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ardas.actualgreetings.factory.GreetingFactoryTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.857 sec

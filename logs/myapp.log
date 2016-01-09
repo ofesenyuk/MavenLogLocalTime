@@ -1,0 +1,50 @@
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.App <clinit>
+CONFIG: Configuration done.
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.factory.GreetingFactory <init>
+INFO: GreetingFactory: context is org.springframework.context.annotation.AnnotationConfigApplicationContext@7d4793a8: startup date [Sun Jan 10 00:27:30 EET 2016]; root of context hierarchy, locale is en_US
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.factory.GreetingFactory generateActualMessage
+INFO: GreetingFactory: local time is 00:00, message is good.night
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.factory.GreetingFactory generateActualMessage
+INFO: GreetingFactory: local time is 06:00, message is good.night
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.factory.GreetingFactory <init>
+INFO: GreetingFactory: context is org.springframework.context.annotation.AnnotationConfigApplicationContext@5db250b4: startup date [Sun Jan 10 00:27:31 EET 2016]; root of context hierarchy, locale is en_US
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.factory.GreetingFactory generateActualMessage
+INFO: GreetingFactory: local time is 08:20, message is good.morning
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.factory.GreetingFactory generateActualMessage
+INFO: GreetingFactory: local time is 09:00, message is good.morning
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.factory.GreetingFactory <init>
+INFO: GreetingFactory: context is org.springframework.context.annotation.AnnotationConfigApplicationContext@233fe9b6: startup date [Sun Jan 10 00:27:31 EET 2016]; root of context hierarchy, locale is en_US
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.factory.GreetingFactory generateActualMessage
+INFO: GreetingFactory: local time is 09:22, message is good.day
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.factory.GreetingFactory generateActualMessage
+INFO: GreetingFactory: local time is 19:00, message is good.day
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.factory.GreetingFactory <init>
+INFO: GreetingFactory: context is org.springframework.context.annotation.AnnotationConfigApplicationContext@222114ba: startup date [Sun Jan 10 00:27:31 EET 2016]; root of context hierarchy, locale is en_US
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.factory.GreetingFactory generateActualMessage
+INFO: GreetingFactory: local time is 20:32, message is good.evening
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.factory.GreetingFactory generateActualMessage
+INFO: GreetingFactory: local time is 23:00, message is good.evening
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.factory.GreetingFactory <init>
+INFO: GreetingFactory: context is org.springframework.context.annotation.AnnotationConfigApplicationContext@3901d134: startup date [Sun Jan 10 00:27:31 EET 2016]; root of context hierarchy, locale is ru_RU
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.factory.GreetingFactory generateActualMessage
+INFO: GreetingFactory: local time is 00:00, message is good.night
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.factory.GreetingFactory generateActualMessage
+INFO: GreetingFactory: local time is 06:00, message is good.night
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.factory.GreetingFactory <init>
+INFO: GreetingFactory: context is org.springframework.context.annotation.AnnotationConfigApplicationContext@45018215: startup date [Sun Jan 10 00:27:31 EET 2016]; root of context hierarchy, locale is ru_RU
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.factory.GreetingFactory generateActualMessage
+INFO: GreetingFactory: local time is 08:00, message is good.morning
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.factory.GreetingFactory generateActualMessage
+INFO: GreetingFactory: local time is 09:00, message is good.morning
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.factory.GreetingFactory <init>
+INFO: GreetingFactory: context is org.springframework.context.annotation.AnnotationConfigApplicationContext@2928854b: startup date [Sun Jan 10 00:27:31 EET 2016]; root of context hierarchy, locale is ru_RU
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.factory.GreetingFactory generateActualMessage
+INFO: GreetingFactory: local time is 10:05, message is good.day
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.factory.GreetingFactory generateActualMessage
+INFO: GreetingFactory: local time is 19:00, message is good.day
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.factory.GreetingFactory <init>
+INFO: GreetingFactory: context is org.springframework.context.annotation.AnnotationConfigApplicationContext@147ed70f: startup date [Sun Jan 10 00:27:31 EET 2016]; root of context hierarchy, locale is ru_RU
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.factory.GreetingFactory generateActualMessage
+INFO: GreetingFactory: local time is 19:05, message is good.evening
+янв 10, 2016 12:27:31 AM com.ardas.actualgreetings.factory.GreetingFactory generateActualMessage
+INFO: GreetingFactory: local time is 23:00, message is good.evening
